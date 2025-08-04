@@ -14,7 +14,7 @@ function exibirMensagemInicial() {
 exibirMensagemInicial();
 
 function verificarChute() {
-    let chute = document.querySelector('input').value;
+    let chute = document.querySelector('input').value.trim();
 
     // Verifica se o chute é um número entre 0 e 10
     if (isNaN(chute) || chute < 0 || chute > 10) {
