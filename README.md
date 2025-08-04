@@ -2,13 +2,11 @@
 
 Jogo simples onde o jogador deve adivinhar um número secreto de 1 a 10. Desenvolvido com HTML, CSS e JavaScript como parte do aprendizado no **Projeto ONE - Oracle Next Education (Turma G9)** com aulas da **Alura**.
 
-## 📷 Preview
-![Jogo do Número Secreto](./caminho-da-sua-imagem.png)
 
 ## 🚀 Tecnologias
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript 
 
 ## 🕹️ Funcionalidades
 - Escolha de número entre 1 e 10.
@@ -21,7 +19,7 @@ Jogo simples onde o jogador deve adivinhar um número secreto de 1 a 10. Desenvo
 Este projeto faz parte da trilha de formação em lógica de programação do programa ONE - Oracle Next Education em parceria com a Alura.
 
 ## 🔗 Demonstração
-
+https://karineduarte15.github.io/JogoDoNumeroSecreto-/
 ---
 
 Feito com 💙 no Projeto ONE - G9 🚀
